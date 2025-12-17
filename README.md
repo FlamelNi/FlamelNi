@@ -73,9 +73,9 @@ I care deeply about clarity in UI architecture, predictable behavior under real 
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/yourusername">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent"/>
+<a href="https://github.com/FlamelNi">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FlamelNi&show_icons=true&theme=transparent"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamelNi&layout=compact&theme=transparent"/>
 </a>
 
 ---
