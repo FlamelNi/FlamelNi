@@ -31,7 +31,7 @@ I care deeply about clarity in UI architecture, predictable behavior under real 
 
 **Frontend**
 - React, TypeScript, Vite
-- HTML, CSS, Sass, Tailwind CSS
+- Markup languages, Sass, Tailwind CSS
 - Astro, Starlight
 
 **Testing**
